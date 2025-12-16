@@ -84,6 +84,9 @@ Future update: There is also the possibility to make it work with just about any
 
 This is useful for users who not only want to use hires textures with their mods, but also add custom game-code changing functionalities to their game alongside the HD Texture/Movie loader functionality.
 
+This is not to be confused with Bio3/RE3 Uncut, another mod I'm working on which will utilize this.
+これを、これを利用する私が現在取り組んでいる別の mod である Bio3/RE3 Uncut と混同しないでください。
+
 # Credits
 
 * Gemini - for the marvelous Classic Rebirth
