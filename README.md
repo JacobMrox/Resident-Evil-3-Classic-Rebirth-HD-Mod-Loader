@@ -4,6 +4,12 @@ Resident Evil 3 / Biohazard 3 Classic Rebirth HD Mod Loader allows "hires" textu
 # 👑 RE3 Classic Rebirth 3: Self-Contained HD Mod Loader
 This project provides a robust solution for loading the TeamX HD Mod assets (hires textures and zmovie cutscenes) exclusively from your dedicated mod folder, ensuring compatibility, stability, and control over your Resident Evil 3 experience.
 
+Resident Evil 3／バイオハザード3 Classic Rebirth HD Mod Loader は、「hires」テクスチャアセットおよび「zmovie」カットシーン／FMV を、自己完結型の（mod_hd）フォルダからのみ読み込めるようにします。
+
+محمل تعديل إتش دي لريزدنت إيفل ثلاثة / بايوهازارد ثلاثة «كلاسيك ريبيرث» يسمح بتحميل خامات عالية الدقة ومقاطع الفيديو السينمائية حصريًا من مجلد مستقل بذاته.
+
+لودر مود اچ‌دی برای رزیدنت ایول سه / بایوهزارد سه «کلاسیک ریبرث» امکان بارگذاری تکسچرهای با وضوح بالا و ویدیوها و میان‌پرده‌های سینمایی را به‌صورت انحصاری از یک پوشهٔ مستقل فراهم می‌کند.
+
 # ✨ Key Features & Purpose
 The core issue with previous modding setups was that the TeamX HD Mod loaded globally, often conflicting with Classic Rebirth 3's (CR3) mod switching feature. Furthermore "zmovie" only loaded from the root directory of the game. This solution fixes this:
 
@@ -64,6 +70,10 @@ To use this mod, you must have the following base files and environment set up:
 * Launch the Mod: When you boot up BIOHAZARD(R) 3 PC.exe, select Resident Evil 3 - HD and walla!
 
 <img width="466" height="316" alt="image" src="https://github.com/user-attachments/assets/13716148-3f6b-4bcd-9837-e2dd6a5506a9" />
+
+<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/7e5d295d-f085-468a-b5e0-534cff54e854" />
+
+<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/b181a475-03dd-4a20-80fd-ec5a015dc0a0" />
 
 # 🖼️ Texture Workflow Example
 If you have a custom low-resolution Jill mod installed, the texture workflow is managed entirely within the mod_hd directory:
