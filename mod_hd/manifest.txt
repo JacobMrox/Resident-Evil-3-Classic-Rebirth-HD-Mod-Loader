@@ -1,0 +1,7 @@
+[MOD]
+Name = Resident Evil 3 - HD
+Title = RESIDENT EVIL™ 3 NEMESIS - HD
+Module = hd.dll
+SavePath = 
+ForceEng = 1
+ConfigAltFont = 1

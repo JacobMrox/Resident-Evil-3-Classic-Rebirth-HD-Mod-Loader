@@ -1,0 +1,17 @@
+RE3 Classic Rebirth 3 TeamX HD Mod Loader
+
+This mod allows "hires" texture assets and "zmovie" cutscenes to load exclusively from the mod_hd folder.
+
+CR3 loads MP4 movies by default, so any correctly named MP4 files in mod_hd/zmovie/ (e.g. snl.mp4) will also be loaded.
+
+This solution ensures the HD Mod is only active when this specific mod is selected, allowing users to switch between HD and Vanilla experiences easily without file conflicts.
+
+Requires: TeamX dinput8.dll, libwebp.dll, and bio3hd.asi and a "hires" (Team X/Seamless HD) texture pack folder.
+
+Special Thanks:
+
+- Gemini: for his amazing work on Classic Rebirth 3 and Mod SDK which I used to develop this mod.
+- TeamX: for their incredible HD mod loader/dumper.
+- The Seamless HD guys, who made my preffered go-to original looking HD mod pack for TeamX mod.
+
+This mod was created by Jacob Qarooni (Yaqoob Al-Qarooni) aka Jacob S. Lari aka Mrox2.
