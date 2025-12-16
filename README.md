@@ -58,3 +58,9 @@ The HD Mod intercepts the textures and dumps them to: mod_hd/dump/.
 You can upscale that WEBP file to 4x resolution.
 
 You place the new high-resolution file in the matching location. E.G. if it was "mod_hd/dump/bgd/XXXXXX.webp" then the updated/modded/upscaled version goes in "mod_hd/hires/bgd/" in other words, the full path would become "mod_hd/hires/bgd/XXXXXX.webp".
+
+# Custom DLL
+
+A source code will be provided for those who would like to create a custom mod dll for use with their own mods, to load hires textures for said mod, all you would need to do is change mod_hd lines (few ones in hacks.cpp) and build! Then copy the provided dll in project_dir/Debug and use it with your mod_folder, just make sure the module section of your manifest.txt (in your mod_folder) refers to said dll.
+
+This is useful for users who not only want to use hires textures with their mods, but also add custom game-code changing functionalities to their game alongside the HD Texture/Movie loader functionality.
