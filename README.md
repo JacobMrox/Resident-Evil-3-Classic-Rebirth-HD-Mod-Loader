@@ -65,15 +65,17 @@ To use this mod, you must have the following base files and environment set up:
 
 * Your directory should look like the following image
 
-<img width="683" height="426" alt="image" src="https://github.com/user-attachments/assets/855a8c79-0633-4323-8117-4827317bdca9" />
+<img width="583" height="326" alt="image" src="https://github.com/user-attachments/assets/855a8c79-0633-4323-8117-4827317bdca9" />
 
 * Launch the Mod: When you boot up BIOHAZARD(R) 3 PC.exe, select Resident Evil 3 - HD and walla!
 
 <img width="466" height="316" alt="image" src="https://github.com/user-attachments/assets/13716148-3f6b-4bcd-9837-e2dd6a5506a9" />
 
-<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/7e5d295d-f085-468a-b5e0-534cff54e854" />
+Some comparison shots:
 
-<img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/b181a475-03dd-4a20-80fd-ec5a015dc0a0" />
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/7e5d295d-f085-468a-b5e0-534cff54e854" />
+
+<img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/b181a475-03dd-4a20-80fd-ec5a015dc0a0" />
 
 # 🖼️ Texture Workflow Example
 If you have a custom low-resolution Jill mod installed, the texture workflow is managed entirely within the mod_hd directory:
