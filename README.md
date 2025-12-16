@@ -1,8 +1,6 @@
+# 👑 RE3 Classic Rebirth 3: Self-Contained HD Mod Loader
 
 Resident Evil 3 / Biohazard 3 Classic Rebirth HD Mod Loader allows "hires" texture assets and "zmovie" cutscenes/fmvs to load exclusively from a self contained (mod_hd) folder. 
-
-# 👑 RE3 Classic Rebirth 3: Self-Contained HD Mod Loader
-This project provides a robust solution for loading the TeamX HD Mod assets (hires textures and zmovie cutscenes) exclusively from your dedicated mod folder, ensuring compatibility, stability, and control over your Resident Evil 3 experience.
 
 Resident Evil 3／バイオハザード3 Classic Rebirth HD Mod Loader は、「hires」テクスチャアセットおよび「zmovie」カットシーン／FMV を、自己完結型の（mod_hd）フォルダからのみ読み込めるようにします。
 
