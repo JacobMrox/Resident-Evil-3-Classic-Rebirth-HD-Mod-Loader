@@ -1,5 +1,7 @@
 **I am aware of the current issues where the game has no audio on the title screen and crashes on loading a new game or save, I'm working on fixing it!**
 
+**ゲームのタイトル画面に音声が出ず、新しいゲームやセーブをロードするときにクラッシュするという現在の問題を認識しており、修正に取り組んでいます**
+
 # 👑 RE3 Classic Rebirth 3: Self-Contained HD Mod Loader
 
 Resident Evil 3 / Biohazard 3 Classic Rebirth HD Mod Loader allows "hires" texture assets and "zmovie" cutscenes/fmvs to load exclusively from a self contained (mod_hd) folder. 
