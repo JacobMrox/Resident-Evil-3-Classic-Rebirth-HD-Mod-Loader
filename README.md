@@ -75,3 +75,12 @@ A source code will be provided for those who would like to create a custom mod d
 Future update: There is also the possibility to make it work with just about any mod_folder, like mod_nemesis or mod_lon.
 
 This is useful for users who not only want to use hires textures with their mods, but also add custom game-code changing functionalities to their game alongside the HD Texture/Movie loader functionality.
+
+# Credits
+
+* Gemini - for the marvelous Classic Rebirth
+* TeamX - for their crazy good HD mod
+* CAPCOM - for making my favorite video game series of all time
+* Kauhiro Aoyam - for directing the best game ever
+* Yasuhisa Kawamura - for writing this amazing plot
+* Everyone else from the Resident Evil community and modding community
