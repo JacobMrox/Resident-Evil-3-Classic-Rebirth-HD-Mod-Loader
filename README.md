@@ -101,6 +101,7 @@ This is not to be confused with Bio3/RE3 Uncut, another mod I'm working on which
 
 * Gemini - for the marvelous Classic Rebirth
 * TeamX - for their crazy good HD mod
+* Mister/Gh0st - for debugging bio3hd.asi and letting me know that it uses fopen instead of CreateFileA (Winapi)
 * CAPCOM - for making my favorite video game series of all time
 * Kauhiro Aoyam - for directing the best game ever
 * Yasuhisa Kawamura - for writing this amazing plot
