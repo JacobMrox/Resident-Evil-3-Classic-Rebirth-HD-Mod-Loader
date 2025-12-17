@@ -95,6 +95,7 @@ Future update: There is also the possibility to make it work with just about any
 This is useful for users who not only want to use hires textures with their mods, but also add custom game-code changing functionalities to their game alongside the HD Texture/Movie loader functionality.
 
 This is not to be confused with Bio3/RE3 Uncut, another mod I'm working on which will utilize this.
+
 これを、これを利用する私が現在取り組んでいる別の mod である Bio3/RE3 Uncut と混同しないでください。
 
 # Changelog
@@ -108,6 +109,6 @@ This is not to be confused with Bio3/RE3 Uncut, another mod I'm working on which
 * TeamX - for their crazy good HD mod
 * Mister/Gh0st - for debugging bio3hd.asi and letting me know that it uses fopen instead of CreateFileA (Winapi)
 * CAPCOM - for making my favorite video game series of all time
-* Kauhiro Aoyam - for directing the best game ever
+* Kazuhiro Aoyama - for directing the best game ever
 * Yasuhisa Kawamura - for writing this amazing plot
 * Everyone else from the Resident Evil community and modding community
