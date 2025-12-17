@@ -1,4 +1,4 @@
-# 👑 RE3 Classic Rebirth 3: Self-Contained ASI HD Mod Loader
+# 👑 RE3 Classic Rebirth 3: Self-Contained ASI HD Mod & Zmovie Loader
 
 Resident Evil 3 / Biohazard 3 Classic Rebirth ASI HD Mod Loader allows "hires" texture assets and "zmovie" cutscenes/fmvs to load exclusively from a self contained (mod_hd) folder. 
 
