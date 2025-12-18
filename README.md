@@ -45,6 +45,7 @@ To use this mod, you must have the following base files and environment set up:
    * [HD Movies](https://classicrebirth.com/index.php/download/re3-hq-movies/) (By Darren) 
    * [HD Voices](https://www.moddb.com/addons/resident-evil-3-high-quality-voices-pack) (By Reza Molaee; Merci Azizam)
    * [OST/MUSIC Overhaul](https://www.moddb.com/addons/resident-evil-3-nemesis-ost-overhaul-addon-sourcenext) (By Saigen and Cavatina) - I love this one!
+   * [Classic REbirth HQ OST & OST ARRANGED](https://mega.nz/file/Zl4mHCwY#qaqsfhoVoyR6jqRf8koiKKid2QkdNY9Bwwgb6f1lkpQ) - A pack including OST rip version of music, Dreamcast rip ver and the above Arranged version, pick whichever you like (Compiled by lexas87).
 
 # 📦 Installation Instructions
 * Meet all Requirements: Ensure your game is properly patched with CR3 (ddraw.dll in the root of your game directory).
