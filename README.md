@@ -2,15 +2,14 @@
 
 Resident Evil 3 / Biohazard 3 Classic Rebirth ASI HD Mod & Movies Merged Loader allows "hires" texture assets and "zmovie" cutscenes/fmvs to load exclusively from a self contained (mod_hd) folder. 
 
-Japanese:
+* Japanese:
 Resident Evil 3／バイオハザード3 Classic Rebirth ASI HD Mod Loader は、「hires」テクスチャアセットおよび「zmovie」カットシーン／FMV を、自己完結型の（mod_hd）フォルダからのみ読み込めるようにします。
 
-Arabic:
+* Arabic:
 محمل تعديل إتش دي لريزدنت إيفل ثلاثة / بايوهازارد ثلاثة «كلاسيك ريبيرث» يسمح بتحميل خامات عالية الدقة ومقاطع الفيديو السينمائية حصريًا من مجلد مستقل بذاته.
-Farsi:
+* Farsi:
 لودر مود اچ‌دی برای رزیدنت ایول سه / بایوهزارد سه «کلاسیک ریبرث» امکان بارگذاری تکسچرهای با وضوح بالا و ویدیوها و میان‌پرده‌های سینمایی را به‌صورت انحصاری از یک پوشهٔ مستقل فراهم می‌کند.
-Portoguese:
-O Resident Evil 3 / Biohazard 3 Classic Rebirth ASI HD Mod & Movies Merged Loader permite que texturas em alta resolução e cenas/vídeos em formato "zmovie" sejam carregados exclusivamente a partir de uma pasta independente (mod_hd).
+* Portoguese: O Resident Evil 3 / Biohazard 3 Classic Rebirth ASI HD Mod & Movies Merged Loader permite que texturas em alta resolução e cenas/vídeos em formato "zmovie" sejam carregados exclusivamente a partir de uma pasta independente (mod_hd).
 
 # ✨ Key Features & Purpose
 The core issue with previous modding setups was that the TeamX HD Mod loaded globally, often conflicting with Classic Rebirth 3's (CR3) mod switching feature. Furthermore "zmovie" only loaded from the root directory of the game. This solution fixes this:
