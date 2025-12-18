@@ -89,7 +89,7 @@ If you have a custom low-resolution Jill mod installed, the texture workflow is 
 
 # Source code / Custom DLL / Future Updates
 
-This project wouldn't be possible without Classic Rebirth by Gemini/Loboto3, and it is directly built on and using the [[RE3 Mod SDK](Gemini-Loboto3/RE3-Mod-SDK)](https://github.com/Gemini-Loboto3/RE3-Mod-SDK/tree/main/dlls/test) source code provided by Gemini to allow creation of such mods and other game altering functionalities through the RE3/BIO3 Classic Rebirth patch.
+This project wouldn't be possible without Classic Rebirth by Gemini/Loboto3, and it is directly built on and using the [RE3 Mod SDK](Gemini-Loboto3/RE3-Mod-SDK)](https://github.com/Gemini-Loboto3/RE3-Mod-SDK/tree/main/dlls/test) source code provided by Gemini to allow creation of such mods and other game altering functionalities through the RE3/BIO3 Classic Rebirth patch.
 
 A source code may/will be provided for those who would like to create a custom mod dll for use with their own mods, to load hires textures for said mod, all you would need to do is change mod_hd lines (few ones in hacks.cpp) and build! Then copy the provided dll in project_dir/Debug and use it with your mod_folder, just make sure the module section of your manifest.txt (in your mod_folder) refers to said dll.
 
