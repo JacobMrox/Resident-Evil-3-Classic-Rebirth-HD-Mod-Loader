@@ -42,8 +42,8 @@ To use this mod, you must have the following base files and environment set up:
   * hires (folder) - Get it from [TeamX HD Mod](https://www.moddb.com/mods/resident-evil-3-hd-mod/downloads/resident-evil-3-hd-mod) (the original HD mod) or [Seamless HD Mod](https://www.reshdp.com/re3/) (more authentic to the original game's textures)
 
  * Extra
-   * [HD Movies](https://classicrebirth.com/index.php/download/re3-hq-movies/) (By Darren) 
-   * [HD Voices](https://www.moddb.com/addons/resident-evil-3-high-quality-voices-pack) (By Reza Molaee; Merci Azizam)
+   * [HQ Movies](https://classicrebirth.com/index.php/download/re3-hq-movies/) (By Darren) 
+   * [HQ Voices](https://www.moddb.com/addons/resident-evil-3-high-quality-voices-pack) (By Reza Molaee; Merci Azizam)
    * [OST/MUSIC Overhaul](https://www.moddb.com/addons/resident-evil-3-nemesis-ost-overhaul-addon-sourcenext) (By Saigen and Cavatina) - I love this one!
    * [Classic REbirth HQ OST & OST ARRANGED](https://mega.nz/file/Zl4mHCwY#qaqsfhoVoyR6jqRf8koiKKid2QkdNY9Bwwgb6f1lkpQ) - A pack including OST rip version of music, Dreamcast rip ver and the above Arranged version, pick whichever you like (Compiled by lexas87).
 
